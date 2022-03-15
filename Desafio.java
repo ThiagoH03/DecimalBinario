@@ -20,7 +20,7 @@ public class Desafio{
             System.out.print(indice);
         }
         System.out.println("");
-
+        input.close();
 
     }
 
